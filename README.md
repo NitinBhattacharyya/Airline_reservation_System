@@ -19,6 +19,23 @@ An Airline Reservation Desktop Application. The GUI is made with the help of Jav
 
 ![image](https://github.com/NitinBhattacharyya/Airline_reservation_System/assets/42495409/030cd445-59af-4ed7-a1e8-79033ef4987e)
 ![image](https://github.com/NitinBhattacharyya/Airline_reservation_System/assets/42495409/6cad5524-3cfe-45ab-8f37-c6234a8ffc07)
+![image](https://github.com/NitinBhattacharyya/Airline_reservation_System/assets/42495409/b4a35b3c-2ae1-44cc-bb54-32d9e396a7fa)
+
+<h1>Ticket Menu</h1>
+
+![image](https://github.com/NitinBhattacharyya/Airline_reservation_System/assets/42495409/82c23654-a332-4de9-a189-2f4ed65a86b7)
+![image](https://github.com/NitinBhattacharyya/Airline_reservation_System/assets/42495409/cdc47263-fa84-4bd7-b653-a3d9917a1d00)
+
+<h1>Admin Menu</h1>
+
+![image](https://github.com/NitinBhattacharyya/Airline_reservation_System/assets/42495409/a567936b-9c9c-4fd3-84cc-d0a0cf4005f4)
+![image](https://github.com/NitinBhattacharyya/Airline_reservation_System/assets/42495409/aa26ead4-7597-4487-81fe-3fe43f2a559c)
+
+
+
+
+
+
 
 
 
