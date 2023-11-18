@@ -1,5 +1,13 @@
 # Airline_reservation_System
-An Airline Reservation Desktop Application. The GUI is made with the help of Java Swing and Backend database is MySql
+An Airline Reservation Desktop Application. The GUI is made with the help of Java Swing and Backend database is MySql.
+
+• Implemented secure logins via salted hash.
+
+• Implemented administrator and customer functionalities, facilitating flight search, addition, and booking with auto-
+mated IDs.
+
+• User-friendly interface streamlines flight searches, fare retrieval, and booking, ’View Ticket’ offers TicketID-based
+details, PDF downloads for convenience.
 
 <h1>Login Page</h1>
 
